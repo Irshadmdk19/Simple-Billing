@@ -36,7 +36,7 @@ for(i=1;i<=j;i++)
 }
 printf("\n\t\t TOTAL AMOUNT:- %0.2f\n",total);
 printf("\n______________________________________________________\n");
-printf("\n Thank You Visit Again\n");
+printf("\n __Thank You Visit Again__\n");
 
 
 
